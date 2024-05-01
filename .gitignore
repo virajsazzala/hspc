@@ -1,0 +1,7 @@
+*.out
+*.exe
+*.pdf
+*test*
+*tmp*
+data
+.vscode
